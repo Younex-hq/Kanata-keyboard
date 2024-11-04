@@ -27,3 +27,8 @@
 
 _Thanks to this guy on GitHub_ :
 https://github.com/jtroo/kanata/discussions/193#discussioncomment-5276656
+
+---
+#### Disclamer:
+
+I don't claim ownership of the software itself, which is owned by https://github.com/jtroo , this repo is solely for sharing my personal configuration and setup for the software, and it may not be suitable for everyone. Please refer to the original software repository https://github.com/jtroo/kanata for the official documentation and support.
